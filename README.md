@@ -51,4 +51,4 @@ I continue my journey on the Faculty of Economics. Now I am trying to get back t
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaSudzo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaSudzo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
