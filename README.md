@@ -26,7 +26,7 @@
 After finishing High School of Mechanical Engineering - Computer Construction department, 
 I continue my journey on the Faculty of Economics. Now I am trying to get back to my first love computers as a programer
 
-- :briefcase: Currently I’m working as a Inspector for the leading testing, inspection and certification company.
+- :briefcase: Currently I’m working as an Inspector for the leading testing, inspection and certification company.
 
 - :desktop_computer: Finishing Python Pro BootCamp on Udemy
 
