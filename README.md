@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 After finishing High School of Mechanical Engineering - Computer Construction department, 
-I continue my journey on the University School of Bussines. Now I am trying to get back to my first love computers as a programer
+I continue my journey on the University School of Bussines. Now I am trying to get back to my first love computers as a programmer
 
 - :briefcase: Currently I’m working as an Inspector for the leading testing, inspection and certification company.
 
